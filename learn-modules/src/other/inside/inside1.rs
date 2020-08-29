@@ -1,0 +1,1 @@
+pub fn inside1function() {}
