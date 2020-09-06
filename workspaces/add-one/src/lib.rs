@@ -1,6 +1,7 @@
 use rand;
 
 pub fn add_one(x: i32) -> i32 {
+    println!("{}", rand::random::<bool>());
     x + 1
 }
 
